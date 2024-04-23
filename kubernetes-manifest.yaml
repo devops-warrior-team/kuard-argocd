@@ -46,7 +46,7 @@ metadata:
 spec:
   ingressClassName: cloudflare-tunnel
   rules:
-  - host: kuard.devops-warrior.site
+  - host: kuard.deploy-at.my.id
     http:
       paths:
       - backend:
